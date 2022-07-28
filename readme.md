@@ -4,7 +4,7 @@
 ## Sum product of two vectors
 
 ```c++
-#include <numeric>
+#include <numeric> //iota, accumulate
 #include <vector>
 #include <iostream>
 
